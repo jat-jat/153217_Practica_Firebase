@@ -22,5 +22,5 @@ INGENIERÍA EN DESARROLLO DE SOFTWARE
 Desarrollo de aplicaciones móviles – Corte 2
 
 Javier Alberto Argüello Tello – 153217 – 8º
-20 de febrero del 2018
+20 de febrero del 2019
 ```
