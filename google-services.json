@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "798867931514",
+    "firebase_url": "https://pokemon-38d74.firebaseio.com",
+    "project_id": "pokemon-38d74",
+    "storage_bucket": "pokemon-38d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798867931514:android:6157ffde5da7dccc",
+        "android_client_info": {
+          "package_name": "com.javierarguello.pracfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798867931514-nd533id9316k2lgp8irsp65papqh23e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAVr1IX4b3Bq-aN1t5UTl38tBct8-6Geg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
